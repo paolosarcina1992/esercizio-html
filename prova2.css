@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<head>
+<style>
+body {background-image : url("paper.gif");
+}
+
+h4 {text-align: center;
+    color: blue;
+    font-family: verdana;
+    font-size: 50px;
+    }
+p  {color: red;
+    font-family: timesnewroman;
+    font-size: 30px;
+   }
+
+</style>
+
+</head>
+
+<body>
+
+<h4>SEZIONE CONTATTI</h4>
+
+<p>GIACOMO
+<br>
+3215565456
+<br>
+<br>
+GINO
+<br>
+32155645
+<br>
+<br>
+<br>
+<br>
+IL NOSTRO INDIRIZZO WEB</p> <a href="www.prova.it">www.prova.it</a href>
+
+
+
+</body>
+
+</html>
