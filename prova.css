@@ -1,0 +1,38 @@
+<!DOCTYPE>
+<html>
+<head>
+<style>
+
+p {background-color: lightblue;
+   color: black;
+   text-align: center;
+   font-family: verdana;
+}
+
+h1 {color: green;
+    text-align: center;
+    font-family: courier;
+}
+</style>
+</head>
+<body>
+<h1> CHI SIAMO</h1>
+<p>Siamo un'azienda che nasce nel 2003 grazie alla fusione bla bla bla di molte bla bla bla per offrire la bla bla bla</p>
+<br>
+<p>Quello che vogliamo bla bla bla bla bla skdaodksoakaokdoaodsdksakk</p>
+<br>
+<p> selezioniamo solo gente determinata eccc blblaldlaldslaslldalsdlasl</p>
+<br>
+<br>
+<br>
+<h4>CONTATTACI</h4>
+
+<form>
+NOME:<br>
+<input type="text" name="firstname"><br>
+COGNOME:<br>
+<input type="text" name="lastname"><br>
+
+</form>
+</body>
+</html>
